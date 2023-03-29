@@ -1,0 +1,17 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4rem;
+}
+.header li{
+    display: inline-block;
+    margin-left: 15px;
+}
+.header li a {
+    color: #fff;
+    list-style: none;
+}
